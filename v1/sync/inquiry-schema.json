@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cumulativewebinc.github.io/masters/v1/sync/inquiry-schema.json",
+  "title": "CWI Masters sync inquiry (inbound)",
+  "description": "Inbound-only. Submitting an inquiry creates a structured payload for CWI Affairs review; it sends nothing and licenses nothing by itself.",
+  "type": "object",
+  "required": [
+    "inquirer_name",
+    "inquirer_email",
+    "track_id",
+    "use_type",
+    "message"
+  ],
+  "properties": {
+    "inquirer_name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "inquirer_email": {
+      "type": "string",
+      "format": "email"
+    },
+    "organization": {
+      "type": "string"
+    },
+    "track_id": {
+      "type": "string",
+      "description": "CWI Masters track_id, e.g. that-boy-hi-hat-diabolique"
+    },
+    "use_type": {
+      "enum": [
+        "film",
+        "tv",
+        "advertising",
+        "game",
+        "trailer",
+        "other"
+      ]
+    },
+    "territory": {
+      "type": "string"
+    },
+    "term": {
+      "type": "string"
+    },
+    "media_description": {
+      "type": "string"
+    },
+    "message": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "additionalProperties": false
+}

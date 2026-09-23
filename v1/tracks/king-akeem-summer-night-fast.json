@@ -1,0 +1,229 @@
+{
+  "api_version": "1.0.0",
+  "canonical_url": "https://cumulativewebinc.github.io/masters/v1/tracks/king-akeem-summer-night-fast.json",
+  "derived": {
+    "track_id": "king-akeem-summer-night-fast",
+    "title": "Summer Night FAST",
+    "artist": "King Akeem",
+    "tier": "bronze",
+    "isrc": {
+      "value": "QZTB62312853",
+      "status": "verified"
+    },
+    "last_verified": "2026-09-19",
+    "stale_after_days": 90,
+    "stale_as_of": "2026-09-20",
+    "is_stale": false,
+    "sync_availability": {
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ]
+    },
+    "canonical_url": "https://cumulativewebinc.github.io/masters/v1/tracks/king-akeem-summer-night-fast.json"
+  },
+  "record": {
+    "schema_version": "1.0.0",
+    "catalog_id": "cwi.catalog.sync-catalog",
+    "track_id": "king-akeem-summer-night-fast",
+    "identity": {
+      "title": "Summer Night FAST",
+      "artist": "King Akeem",
+      "isrc": {
+        "value": "QZTB62312853",
+        "status": "verified",
+        "format": "isrc",
+        "source": "Deezer public API album/track endpoint, read 2026-09-19 (public source; not distributor-confirmed) (single)"
+      },
+      "iswc": {
+        "value": null,
+        "status": "unverified",
+        "format": "iswc",
+        "source": null
+      },
+      "version_descriptor": null,
+      "ddex_mapping": {
+        "ern_version": "3.8.2",
+        "resource": "SoundRecording",
+        "release": "Release",
+        "deal": "ReleaseDeal",
+        "notes": "SoundRecording: ISRC, title, version via distributor dashboard or Deezer public API. Release: DistroKid release(s) per the CWI 'My music' listing, Cumulative Web Inc label line. Deal: license terms map to ReleaseDeal/DealTerms; territory and exclusivity resolved at inquiry time via hp@cumulativeweb.com. Contributors map to IndirectContributor with ISNI only once ISNIs are verified (currently null)."
+      }
+    },
+    "parties": [
+      {
+        "name": "King Akeem",
+        "roles": [
+          "artist"
+        ],
+        "isni": {
+          "value": null,
+          "status": "unverified",
+          "format": "isni",
+          "source": null
+        },
+        "credit_status": "verified",
+        "credit_source": "DistroKid 'My music' account listing, label-provided screen recording 2026-09-19 (release appears in the CWI DistroKid account)"
+      }
+    ],
+    "rights": {
+      "master_owner": {
+        "value": "Cumulative Web Inc",
+        "status": "owner_confirmed",
+        "format": "free_text",
+        "source": "Black Lansky ownership statement 2026-09-14 via CWI Rights & Credits Pack §2 (self-reported: owns the master recordings released through Cumulative Web Inc)"
+      },
+      "publisher": {
+        "value": null,
+        "status": "unverified",
+        "format": "free_text",
+        "source": null
+      },
+      "pro_affiliation": {
+        "value": null,
+        "status": "unverified",
+        "format": "free_text",
+        "source": null
+      },
+      "splits": [],
+      "splits_status": "unverified",
+      "one_stop_claimed": false,
+      "pre_cleared_claimed": false,
+      "sample_clearance": {
+        "value": null,
+        "status": "unverified",
+        "format": null,
+        "source": null
+      },
+      "license_terms": [
+        {
+          "license_type": "sync",
+          "territory": [
+            "worldwide"
+          ],
+          "exclusivity": "non_exclusive",
+          "duration": "per_agreement",
+          "status": "unverified"
+        }
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    "provenance": {
+      "label_line": {
+        "value": "Cumulative Web Inc",
+        "status": "verified",
+        "format": "free_text",
+        "source": "CWI Rights & Credits Pack 2026-09-14 §1 (published Cumulative Web Inc label line across the catalog)"
+      },
+      "distributor": {
+        "value": "DistroKid",
+        "status": "verified",
+        "format": "free_text",
+        "source": "DistroKid 'My music' account listing, label-provided screen recording 2026-09-19 (release appears in the CWI DistroKid account)"
+      },
+      "release_date": {
+        "value": null,
+        "status": "unverified",
+        "source": null
+      },
+      "authorship": "human",
+      "authorship_evidence": "Artist-released commercial recordings via label distribution; no AI-authorship indicators in any label record. Release note: Single"
+    },
+    "external_ids": {
+      "upc": {
+        "value": null,
+        "status": "unverified",
+        "format": "upc",
+        "source": null
+      },
+      "spotify_id": {
+        "value": null,
+        "status": "unverified",
+        "format": "platform_id",
+        "source": null
+      },
+      "deezer_id": {
+        "value": null,
+        "status": "unverified",
+        "format": "platform_id",
+        "source": null
+      },
+      "apple_music_id": {
+        "value": null,
+        "status": "unverified",
+        "format": "platform_id",
+        "source": null
+      },
+      "shazam_id": {
+        "value": null,
+        "status": "unverified",
+        "format": "platform_id",
+        "source": null
+      }
+    },
+    "assets": {
+      "stems_available": false,
+      "stem_types": [],
+      "instrumental_available": {
+        "value": null,
+        "status": "unverified",
+        "format": null,
+        "source": null
+      },
+      "acapella_available": {
+        "value": null,
+        "status": "unverified",
+        "format": null,
+        "source": null
+      },
+      "artwork_url": null,
+      "preview_url": {
+        "value": null,
+        "status": "unverified",
+        "format": null,
+        "source": null
+      }
+    },
+    "verification": {
+      "record_status": "bronze",
+      "last_verified": "2026-09-19",
+      "stale_after_days": 90,
+      "verified_fields": [
+        "identity.title",
+        "identity.artist",
+        "identity.isrc",
+        "provenance.label_line",
+        "provenance.distributor",
+        "parties.artist_credit",
+        "rights.master_owner",
+        "rights.one_stop_claimed",
+        "rights.pre_cleared_claimed",
+        "rights.license_contact"
+      ],
+      "unverified_fields": [
+        "identity.iswc",
+        "external_ids.upc",
+        "external_ids.spotify_id",
+        "external_ids.deezer_id",
+        "external_ids.apple_music_id",
+        "external_ids.shazam_id",
+        "provenance.release_date",
+        "parties[].isni",
+        "rights.publisher",
+        "rights.pro_affiliation",
+        "rights.splits",
+        "rights.sample_clearance",
+        "rights.license_terms",
+        "assets.stems_available",
+        "assets.instrumental_available",
+        "assets.acapella_available",
+        "assets.artwork_url",
+        "assets.preview_url"
+      ],
+      "conflicted_fields": []
+    }
+  }
+}

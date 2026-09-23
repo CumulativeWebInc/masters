@@ -1,0 +1,32 @@
+{
+  "api_version": "1.0.0",
+  "product": "CWI Masters",
+  "generated": "2026-09-20",
+  "generator": "masters/src/build.js (zero-dep; input: catalog-interop/catalog-index.json)",
+  "base_url": "https://cumulativewebinc.github.io/masters",
+  "record_count": 52,
+  "index_version": "1.0.0",
+  "tiers": {
+    "silver": 8,
+    "bronze": 44
+  },
+  "isrc": {
+    "verified": 46,
+    "conflicted": 2,
+    "missing": 4
+  },
+  "staleness_policy": "records past stale_after_days are served with is_stale=true; consumers treat stale records as unverified",
+  "license": "CWI Masters Data License v1.0 — free tier with attribution; commercial via hp@cumulativeweb.com",
+  "endpoints": [
+    "/v1/manifest.json",
+    "/v1/catalog.json",
+    "/v1/tracks/{track_id}.json",
+    "/v1/indexes/by-artist.json",
+    "/v1/indexes/by-isrc.json",
+    "/v1/indexes/by-tier.json",
+    "/v1/llms.txt",
+    "/v1/llms-full.txt",
+    "/v1/sync/availability.json",
+    "/v1/sync/inquiry-schema.json"
+  ]
+}

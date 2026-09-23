@@ -1,0 +1,71 @@
+# CWI Masters
+
+> The verified machine-readable catalog of Cumulative Web Inc — 52 tracks with sourced ISRCs, credits, and sync flags. Generated 2026-09-20.
+> Evidence tiers: silver = identifiers verified from distributor dashboard; bronze = public-source identifiers, not distributor-confirmed.
+> Conflicts are published as conflicts (value null, candidates documented). Unknowns are published as unknown. Nothing is guessed.
+
+## Use
+- Full catalog: https://cumulativewebinc.github.io/masters/v1/catalog.json
+- Manifest: https://cumulativewebinc.github.io/masters/v1/manifest.json
+- One track: https://cumulativewebinc.github.io/masters/v1/tracks/{track_id}.json
+- Sync availability: https://cumulativewebinc.github.io/masters/v1/sync/availability.json
+- Sync inquiry schema: https://cumulativewebinc.github.io/masters/v1/sync/inquiry-schema.json
+
+## Tracks
+- [Diabolique — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-diabolique.json): ISRC QZ8EF2666377 (verified), tier silver, sync blocked_missing
+- [Spirits n Shadows — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-spirits-n-shadows.json): ISRC QZDA72377312 (verified), tier bronze, sync blocked_missing
+- [Painted Lady — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-painted-lady.json): ISRC QZMEP2461120 (verified), tier bronze, sync blocked_missing
+- [Flamerz — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-flamerz.json): ISRC QZMEP2456963 (verified), tier bronze, sync blocked_missing
+- [Ultimate — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-ultimate.json): ISRC QZMEM2484571 (verified), tier bronze, sync blocked_missing
+- [Toxic Element — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-toxic-element.json): ISRC QZWFE2309934 (verified), tier bronze, sync blocked_missing
+- [7th Angel — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-7th-angel.json): ISRC QZTB82306781 (verified), tier bronze, sync blocked_missing
+- [Phantasm — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-phantasm.json): ISRC QZDA72377313 (verified), tier bronze, sync blocked_missing
+- [Golden Diamond — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-golden-diamond.json): ISRC unknown (conflicted), tier bronze, sync blocked_missing
+- [Flex My Flame — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-flex-my-flame.json): ISRC QZHN32303575 (verified), tier bronze, sync blocked_missing
+- [Broken Hearts Club — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-broken-hearts-club.json): ISRC QZES92391782 (verified), tier silver, sync blocked_missing
+- [Zooted Zone — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-zooted-zone.json): ISRC QZDA52303345 (verified), tier silver, sync blocked_missing
+- [Neon Nights Pt. 777 — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-neon-nights-pt-777.json): ISRC QZTB92246281 (verified), tier bronze, sync blocked_missing
+- [Doves & Diamonds — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-doves-and-diamonds.json): ISRC QZTB72282572 (verified), tier bronze, sync blocked_missing
+- [Shaka Zulu — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-shaka-zulu.json): ISRC unknown (conflicted), tier bronze, sync blocked_missing
+- [Warped & Wicked — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-warped-and-wicked.json): ISRC QZDA62200554 (verified), tier silver, sync blocked_missing
+- [Warped & Wicked (Radio Edit) — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-warped-and-wicked-radio-edit.json): ISRC QZDA62200555 (verified), tier silver, sync blocked_missing
+- [Rainbows And Roses — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-rainbows-and-roses.json): ISRC QZF222243412 (verified), tier silver, sync blocked_missing
+- [Rainbows And Roses (Instrumental) — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-rainbows-and-roses-instrumental.json): ISRC QZF222243413 (verified), tier silver, sync blocked_missing
+- [Place I Go to Dream (Remastered) — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-place-i-go-to-dream-remastered.json): ISRC QZDA52227918 (verified), tier bronze, sync blocked_missing
+- [Place I Go to Dream (Instrumental) — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-place-i-go-to-dream-instrumental.json): ISRC QZDA52227919 (verified), tier bronze, sync blocked_missing
+- [Scorpions & Sapphires — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-scorpions-and-sapphires.json): ISRC QZDA72377310 (verified), tier bronze, sync blocked_missing
+- [Tears and Scars — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-tears-and-scars.json): ISRC QZDA72377309 (verified), tier bronze, sync blocked_missing
+- [Smokin' Pain — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-smokin-pain.json): ISRC QZDA72377311 (verified), tier bronze, sync blocked_missing
+- [Misfits and Hooligans — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-misfits-and-hooligans.json): ISRC QZDA72377314 (verified), tier bronze, sync blocked_missing
+- [Roses over Monaco — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-roses-over-monaco.json): ISRC QZDA72377315 (verified), tier bronze, sync blocked_missing
+- [piv-ot-al — That Boy Hi Hat](https://cumulativewebinc.github.io/masters/v1/tracks/that-boy-hi-hat-piv-ot-al.json): ISRC unknown (unverified), tier bronze, sync blocked_missing
+- [tiempo — Black Lansky](https://cumulativewebinc.github.io/masters/v1/tracks/black-lansky-tiempo.json): ISRC QZTB92317688 (verified), tier bronze, sync blocked_missing
+- [LOFI 2.0 — Black Lansky](https://cumulativewebinc.github.io/masters/v1/tracks/black-lansky-lofi-2-0.json): ISRC QZTAU2364938 (verified), tier bronze, sync blocked_missing
+- [Skateboard Team Sports — Black Lansky](https://cumulativewebinc.github.io/masters/v1/tracks/black-lansky-skateboard-team-sports.json): ISRC QZES72391652 (verified), tier bronze, sync blocked_missing
+- [Retro Vibe — Black Lansky](https://cumulativewebinc.github.io/masters/v1/tracks/black-lansky-retro-vibe.json): ISRC QZES82338847 (verified), tier bronze, sync blocked_missing
+- [Viral Beats — Black Lansky](https://cumulativewebinc.github.io/masters/v1/tracks/black-lansky-viral-beats.json): ISRC QZES72321863 (verified), tier bronze, sync blocked_missing
+- [Mosh Pit — Black Lansky](https://cumulativewebinc.github.io/masters/v1/tracks/black-lansky-mosh-pit.json): ISRC QZTAZ2200862 (verified), tier bronze, sync blocked_missing
+- [Allegience — Black Lansky](https://cumulativewebinc.github.io/masters/v1/tracks/black-lansky-allegience.json): ISRC QZTAZ2200863 (verified), tier bronze, sync blocked_missing
+- [Give It All — Black Lansky](https://cumulativewebinc.github.io/masters/v1/tracks/black-lansky-give-it-all.json): ISRC QZTAZ2200864 (verified), tier bronze, sync blocked_missing
+- [Do it to me — Black Lansky](https://cumulativewebinc.github.io/masters/v1/tracks/black-lansky-do-it-to-me.json): ISRC QZTAZ2200865 (verified), tier bronze, sync blocked_missing
+- [Streets Again — Black Lansky](https://cumulativewebinc.github.io/masters/v1/tracks/black-lansky-streets-again.json): ISRC QZTAZ2200866 (verified), tier bronze, sync blocked_missing
+- [Sync Ready Tracks — Black Lansky](https://cumulativewebinc.github.io/masters/v1/tracks/black-lansky-sync-ready-tracks.json): ISRC unknown (unverified), tier bronze, sync blocked_missing
+- [Star — King Akeem](https://cumulativewebinc.github.io/masters/v1/tracks/king-akeem-star.json): ISRC QZHN32363436 (verified), tier bronze, sync blocked_missing
+- [Super Solid — King Akeem](https://cumulativewebinc.github.io/masters/v1/tracks/king-akeem-super-solid.json): ISRC QZTB62301270 (verified), tier bronze, sync blocked_missing
+- [Embiid — King Akeem](https://cumulativewebinc.github.io/masters/v1/tracks/king-akeem-embiid.json): ISRC QZNWW2269584 (verified), tier bronze, sync blocked_missing
+- [Bluefaces 3.0 — King Akeem](https://cumulativewebinc.github.io/masters/v1/tracks/king-akeem-bluefaces-3-0.json): ISRC QZHN32388169 (verified), tier bronze, sync blocked_missing
+- [Goated — King Akeem](https://cumulativewebinc.github.io/masters/v1/tracks/king-akeem-goated.json): ISRC QZMEP2445736 (verified), tier bronze, sync blocked_missing
+- [Element — King Akeem](https://cumulativewebinc.github.io/masters/v1/tracks/king-akeem-element.json): ISRC QZHN42322704 (verified), tier bronze, sync blocked_missing
+- [Summer Night FAST — King Akeem](https://cumulativewebinc.github.io/masters/v1/tracks/king-akeem-summer-night-fast.json): ISRC QZTB62312853 (verified), tier bronze, sync blocked_missing
+- [Stunt — 183 Wildboi](https://cumulativewebinc.github.io/masters/v1/tracks/183-wildboi-stunt.json): ISRC QZMEP2463049 (verified), tier bronze, sync blocked_missing
+- [Full Moon — 183 Wildboi](https://cumulativewebinc.github.io/masters/v1/tracks/183-wildboi-full-moon.json): ISRC QZNWS2289104 (verified), tier bronze, sync blocked_missing
+- [Pix — Dre50](https://cumulativewebinc.github.io/masters/v1/tracks/dre50-pix.json): ISRC QZFYZ2531105 (verified), tier silver, sync blocked_missing
+- [2K23 Corner$ (feat. That Boy Hi Hat) — Fleekz](https://cumulativewebinc.github.io/masters/v1/tracks/fleekz-2k23-corner.json): ISRC QZDA52309060 (verified), tier bronze, sync blocked_missing
+- [2k23 Corners — Fleekz](https://cumulativewebinc.github.io/masters/v1/tracks/fleekz-2k23-corners.json): ISRC QZK6L2263080 (verified), tier bronze, sync blocked_missing
+- [On Edge — GregPorn](https://cumulativewebinc.github.io/masters/v1/tracks/gregporn-on-edge.json): ISRC unknown (unverified), tier bronze, sync blocked_missing
+- [Pay Yourself — GregPorn](https://cumulativewebinc.github.io/masters/v1/tracks/gregporn-pay-yourself.json): ISRC unknown (unverified), tier bronze, sync blocked_missing
+
+## License
+- Free tier: use in AI training/inference and research with attribution "Data: CWI Masters, Cumulative Web Inc". No bulk redistribution without permission.
+- Commercial license: contact hp@cumulativeweb.com.
+- Full terms: https://cumulativewebinc.github.io/masters/LICENSE.md

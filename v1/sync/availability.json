@@ -1,0 +1,682 @@
+{
+  "generated": "2026-09-20",
+  "policy": "fail-closed: unverified splits/rights -> blocked_missing. An inquiry never licenses anything by itself.",
+  "tracks": [
+    {
+      "track_id": "that-boy-hi-hat-diabolique",
+      "title": "Diabolique",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-spirits-n-shadows",
+      "title": "Spirits n Shadows",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-painted-lady",
+      "title": "Painted Lady",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-flamerz",
+      "title": "Flamerz",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-ultimate",
+      "title": "Ultimate",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-toxic-element",
+      "title": "Toxic Element",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-7th-angel",
+      "title": "7th Angel",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-phantasm",
+      "title": "Phantasm",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-golden-diamond",
+      "title": "Golden Diamond",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-flex-my-flame",
+      "title": "Flex My Flame",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-broken-hearts-club",
+      "title": "Broken Hearts Club",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-zooted-zone",
+      "title": "Zooted Zone",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-neon-nights-pt-777",
+      "title": "Neon Nights Pt. 777",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-doves-and-diamonds",
+      "title": "Doves & Diamonds",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-shaka-zulu",
+      "title": "Shaka Zulu",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-warped-and-wicked",
+      "title": "Warped & Wicked",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-warped-and-wicked-radio-edit",
+      "title": "Warped & Wicked (Radio Edit)",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-rainbows-and-roses",
+      "title": "Rainbows And Roses",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-rainbows-and-roses-instrumental",
+      "title": "Rainbows And Roses (Instrumental)",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-place-i-go-to-dream-remastered",
+      "title": "Place I Go to Dream (Remastered)",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-place-i-go-to-dream-instrumental",
+      "title": "Place I Go to Dream (Instrumental)",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-scorpions-and-sapphires",
+      "title": "Scorpions & Sapphires",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-tears-and-scars",
+      "title": "Tears and Scars",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-smokin-pain",
+      "title": "Smokin' Pain",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-misfits-and-hooligans",
+      "title": "Misfits and Hooligans",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-roses-over-monaco",
+      "title": "Roses over Monaco",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "that-boy-hi-hat-piv-ot-al",
+      "title": "piv-ot-al",
+      "artist": "That Boy Hi Hat",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "black-lansky-tiempo",
+      "title": "tiempo",
+      "artist": "Black Lansky",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "black-lansky-lofi-2-0",
+      "title": "LOFI 2.0",
+      "artist": "Black Lansky",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "black-lansky-skateboard-team-sports",
+      "title": "Skateboard Team Sports",
+      "artist": "Black Lansky",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "black-lansky-retro-vibe",
+      "title": "Retro Vibe",
+      "artist": "Black Lansky",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "black-lansky-viral-beats",
+      "title": "Viral Beats",
+      "artist": "Black Lansky",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "black-lansky-mosh-pit",
+      "title": "Mosh Pit",
+      "artist": "Black Lansky",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "black-lansky-allegience",
+      "title": "Allegience",
+      "artist": "Black Lansky",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "black-lansky-give-it-all",
+      "title": "Give It All",
+      "artist": "Black Lansky",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "black-lansky-do-it-to-me",
+      "title": "Do it to me",
+      "artist": "Black Lansky",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "black-lansky-streets-again",
+      "title": "Streets Again",
+      "artist": "Black Lansky",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "black-lansky-sync-ready-tracks",
+      "title": "Sync Ready Tracks",
+      "artist": "Black Lansky",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "king-akeem-star",
+      "title": "Star",
+      "artist": "King Akeem",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "king-akeem-super-solid",
+      "title": "Super Solid",
+      "artist": "King Akeem",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "king-akeem-embiid",
+      "title": "Embiid",
+      "artist": "King Akeem",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "king-akeem-bluefaces-3-0",
+      "title": "Bluefaces 3.0",
+      "artist": "King Akeem",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "king-akeem-goated",
+      "title": "Goated",
+      "artist": "King Akeem",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "king-akeem-element",
+      "title": "Element",
+      "artist": "King Akeem",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "king-akeem-summer-night-fast",
+      "title": "Summer Night FAST",
+      "artist": "King Akeem",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "183-wildboi-stunt",
+      "title": "Stunt",
+      "artist": "183 Wildboi",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "183-wildboi-full-moon",
+      "title": "Full Moon",
+      "artist": "183 Wildboi",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "dre50-pix",
+      "title": "Pix",
+      "artist": "Dre50",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "fleekz-2k23-corner",
+      "title": "2K23 Corner$ (feat. That Boy Hi Hat)",
+      "artist": "Fleekz",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "fleekz-2k23-corners",
+      "title": "2k23 Corners",
+      "artist": "Fleekz",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "gregporn-on-edge",
+      "title": "On Edge",
+      "artist": "GregPorn",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    },
+    {
+      "track_id": "gregporn-pay-yourself",
+      "title": "Pay Yourself",
+      "artist": "GregPorn",
+      "status": "blocked_missing",
+      "reasons": [
+        "one_stop not claimed",
+        "publishing splits unverified",
+        "PRO affiliation unverified",
+        "sample clearance unverified"
+      ],
+      "license_contact": "hp@cumulativeweb.com"
+    }
+  ]
+}
